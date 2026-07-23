@@ -1,0 +1,31 @@
+{
+    "profile_mode": "custom",
+
+    "builtin_profile": {
+        "client_identifier": "okhttp4_android_13"
+    },
+
+    "custom_profile": {
+        "ja3_string": "771,49195-49196-52393-49199-49200-52392-49161-49162-49171-49172-156-157-47-53,65281-0-23-35-13-5-16-11-10,29-23-24,0",
+        "force_http1": false,
+        "h2_settings": {},
+        "h2_settings_order": [],
+        "supported_signature_algorithms": [
+            "ECDSAWithP256AndSHA256",
+            "PSSWithSHA256",
+            "PKCS1WithSHA256",
+            "ECDSAWithP384AndSHA384",
+            "PSSWithSHA384",
+            "PKCS1WithSHA384",
+            "PSSWithSHA512",
+            "PKCS1WithSHA512",
+            "PKCS1WithSHA1"
+        ],
+        "supported_versions": [],
+        "key_share_curves": [],
+        "cert_compression_algo": "",
+        "pseudo_header_order": [],
+        "connection_flow": 0,
+        "header_order": []
+    }
+}
